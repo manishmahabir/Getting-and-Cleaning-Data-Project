@@ -1,7 +1,7 @@
 library(dplyr)
 library(data.table)
 library(tidyr)
-filesPath <- '/home/achiever/Coursera/data'
+filesPath <- '/home/achiever/Coursera/UCI HAR Dataset'
 
 # read files, create data table
 # Read subject files
